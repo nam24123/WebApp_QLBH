@@ -2,14 +2,15 @@
 	Chứa các thư mục bài tập từng tuần của các thành viên trong nhóm từng tuần.
 	Pull requests chứa các yêu cầu thành viên chỉnh sửa code ở các nhánh và chỉ được xác nhận
 	ở nhánh chính khi người quản trị xác nhận
-# Project chính(WebApp_QuanLyBanHang)
+# Project chính(WebApp)
 	Được thực hiện sau khi hoàn thành các bài tập chung và hiểu được cách lập một website asp.net mvc
 # Git
 	Sau khi thêm một thư mục mới vào file Git để push lên kho repo
 	--git add .
 	Sau khi đã thêm các thư mục mới vào staging area, bạn cần commit các thay đổi 
 	--git commit -m ".."
-	Cuối cùng, bạn có thể đưa các thay đổi từ kho lưu trữ cục bộ của bạn lên kho lưu trữ từ xa (nếu đã liên kết) bằng lệnh git push
+	Cuối cùng, bạn có thể đưa các thay đổi từ kho lưu trữ cục bộ của bạn lên kho lưu
+	trữ từ xa (nếu đã liên kết) bằng lệnh git push
 	--git push origin master
 	Checkout vào branch chính:--git checkout master (để checkout vào branch chính).
 Trước khi tạo nhánh mới, nên checkout vào branch chính (thường là branch master) để đảm bảo rằng bạn đang đứng trên phiên bản mới nhất của project .
