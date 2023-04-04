@@ -11,7 +11,7 @@ namespace WebApp.Areas.Admin.Controllers
         // GET: Admin/HomeAdmin
         public ActionResult Index()
         {
-            return View();
+            return View("New{}");
         }
     }
 }
