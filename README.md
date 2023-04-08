@@ -3,6 +3,7 @@
 	Pull requests chứa các yêu cầu thành viên chỉnh sửa code ở các nhánh và chỉ được xác nhận
 	ở nhánh chính khi người quản trị xác nhận
 # Project chính(WebApp)
+	--ASP.net core web app(mvc)
 	Được thực hiện sau khi hoàn thành các bài tập chung và hiểu được cách lập một website asp.net mvc
 # Git
 	git status : trạng thái của Repo
